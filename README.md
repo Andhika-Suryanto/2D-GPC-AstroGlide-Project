@@ -4,7 +4,7 @@
 </p>
 
 ## 🔴About
-**Astro Glide** is my third game project in Game Programming Class. This game is a straightforward yet thrilling 2D space shooter where players pilot a spaceship through waves of enemy spacecraft. Armed with powerful blasters, players must aim, shoot, and dodge incoming attacks to survive as long as possible. As enemies increase in speed and numbers, players will need quick reflexes and sharp aim to stay alive. Astro Glide is easy to pick up and play, delivering classic arcade action in the vastness of space.
+**Astro Glide** is my forth game project in Game Programming Class. This game is a straightforward yet thrilling 2D space shooter where players pilot a spaceship through waves of enemy spacecraft. Armed with powerful blasters, players must aim, shoot, and dodge incoming attacks to survive as long as possible. As enemies increase in speed and numbers, players will need quick reflexes and sharp aim to stay alive. Astro Glide is easy to pick up and play, delivering classic arcade action in the vastness of space.
 
 <br>
 
